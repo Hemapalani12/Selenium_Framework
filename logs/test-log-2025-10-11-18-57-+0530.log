@@ -1,0 +1,62 @@
+14:03:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:03:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:03:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:03:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:03:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:03:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:03:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:03:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:22:49 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hemas\eclipse-workspace\selenium_framework\testng.xml"
+15:22:49 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hemas\eclipse-workspace\selenium_framework\testng.xml
+
+15:22:53 [main] INFO  testCases.TC002_LoginTest - **** starting TC002_LoginTest ****
+15:22:55 [main] INFO  testCases.TC002_LoginTest - **** finished TC002_LoginTest ****
+15:31:24 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hemas\eclipse-workspace\selenium_framework\testng.xml"
+15:31:24 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hemas\eclipse-workspace\selenium_framework\testng.xml
+
+15:31:28 [main] INFO  testCases.TC002_LoginTest - **** starting TC002_LoginTest ****
+15:31:29 [main] INFO  testCases.TC002_LoginTest - **** finished TC002_LoginTest ****
+15:39:41 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hemas\eclipse-workspace\selenium_framework\testng.xml"
+15:39:41 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hemas\eclipse-workspace\selenium_framework\testng.xml
+
+15:39:45 [main] INFO  testCases.TC002_LoginTest - **** starting TC002_LoginTest ****
+15:39:46 [main] INFO  testCases.TC002_LoginTest - **** finished TC002_LoginTest ****
+15:46:48 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hemas\eclipse-workspace\selenium_framework\testng.xml"
+15:46:48 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hemas\eclipse-workspace\selenium_framework\testng.xml
+
+15:46:51 [main] INFO  testCases.TC002_LoginTest - **** starting TC002_LoginTest ****
+15:46:53 [main] INFO  testCases.TC002_LoginTest - **** finished TC002_LoginTest ****
+15:48:38 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hemas\eclipse-workspace\selenium_framework\testng.xml"
+15:48:39 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hemas\eclipse-workspace\selenium_framework\testng.xml
+
+15:48:42 [main] INFO  testCases.TC002_LoginTest - **** starting TC002_LoginTest ****
+15:48:44 [main] INFO  testCases.TC002_LoginTest - **** finished TC002_LoginTest ****
+15:53:44 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hemas\eclipse-workspace\selenium_framework\testng.xml"
+15:53:44 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hemas\eclipse-workspace\selenium_framework\testng.xml
+
+15:53:48 [main] INFO  testCases.TC002_LoginTest - **** starting TC002_LoginTest ****
+15:53:50 [main] INFO  testCases.TC002_LoginTest - **** finished TC002_LoginTest ****
+18:53:50 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hemas\eclipse-workspace\selenium_framework\testng.xml"
+18:53:51 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hemas\eclipse-workspace\selenium_framework\testng.xml
+
+18:53:55 [main] INFO  testCases.TC002_LoginTest - **** starting TC002_LoginTest ****
+18:53:57 [main] INFO  testCases.TC002_LoginTest - **** finished TC002_LoginTest ****
+18:55:54 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hemas\eclipse-workspace\selenium_framework\testng.xml"
+18:55:54 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hemas\eclipse-workspace\selenium_framework\testng.xml
+
+18:55:57 [main] INFO  testCases.TC002_LoginTest - **** starting TC002_LoginTest ****
+18:55:59 [main] INFO  testCases.TC002_LoginTest - **** finished TC002_LoginTest ****
+18:57:10 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hemas\eclipse-workspace\selenium_framework\testng.xml"
+18:57:10 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hemas\eclipse-workspace\selenium_framework\testng.xml
+
+18:57:13 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:57:13 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels

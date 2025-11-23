@@ -1,0 +1,12 @@
+22:43:56 [main] INFO  testCases.TC001_RegistrationTest - **** Finished TC001_RegistrationTest ****
+22:43:58 [main] INFO  testCases.TC002_LoginTest - **** starting TC002_LoginTest ****
+22:44:01 [main] INFO  testCases.TC002_LoginTest - **** finished TC002_LoginTest ****
+23:00:05 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hemas\eclipse-workspace\selenium_framework\testng.xml"
+23:00:09 [main] INFO  testCases.TC001_RegistrationTest - **** starting TC001_RegistrationTest ****
+23:00:10 [main] INFO  testCases.TC001_RegistrationTest -  **** clicked on register link ****
+23:00:10 [main] INFO  testCases.TC001_RegistrationTest - **** providing customer details ****
+23:00:12 [main] INFO  testCases.TC001_RegistrationTest - validating the input datas
+23:00:12 [main] INFO  testCases.TC001_RegistrationTest - validating the registration confirmation message
+23:00:13 [main] INFO  testCases.TC001_RegistrationTest - **** Finished TC001_RegistrationTest ****
+23:00:16 [main] INFO  testCases.TC002_LoginTest - **** starting TC002_LoginTest ****
+23:00:19 [main] INFO  testCases.TC002_LoginTest - **** finished TC002_LoginTest ****
